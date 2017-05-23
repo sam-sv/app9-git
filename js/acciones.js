@@ -1,5 +1,5 @@
 // JavaScript Document
-
+// prueba altitud
 $(document).ready(function(e) {
     document.addEventListener("deviceready",onDeviceReady,false);
 	
